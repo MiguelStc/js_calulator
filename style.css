@@ -12,6 +12,7 @@ body{
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
+    border: 10px solid rgb(33, 32, 32);
 
 }
 #display{
@@ -35,7 +36,7 @@ body{
 button{
     width: 100px;
     height: 100px;
-    border-radius: 50px;
+    border-radius: 10px;
     border: none;
     background-color:rgb(107, 103, 103);
     color: white;
